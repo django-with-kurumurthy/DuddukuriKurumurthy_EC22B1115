@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+websockets
+sqlite-utils
+streamlit-autorefresh
+requests
+python-dateutil
