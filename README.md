@@ -120,4 +120,5 @@ All **core logic, data handling, and validation** were implemented, tested, and 
 
 ## 📽️ Demo Video
 A short walkthrough of the live dashboard is available below:
-[▶ Watch the demo](demo.mp4)
+
+🎥 [Watch the demo video](./demo.mp4)
