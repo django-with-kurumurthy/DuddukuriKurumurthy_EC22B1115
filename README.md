@@ -121,4 +121,4 @@ All **core logic, data handling, and validation** were implemented, tested, and 
 ## 📽️ Demo Video
 A short walkthrough of the live dashboard is available below:
 
-🎥 [Watch the demo video](./demo.mp4)
+🎬 [▶ Watch the demo video](https://github.com/django-with-kurumurthy/DuddukuriKurumurthy_EC22B1115/blob/main/demo.mp4)
