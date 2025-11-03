@@ -5,6 +5,12 @@ Develop a **real-time analytical dashboard** that reads **Binance tick data** (v
 
 ---
 
+
+## 🧱 Architecture Diagram
+![Architecture Diagram](architecture_diagram.png)
+
+---
+
 ## 🧩 Components
 | Component | Description |
 |------------|-------------|
