@@ -114,3 +114,10 @@ ChatGPT was used to assist with:
 - Debugging ADF, OLS, and auto-refresh logic.
 
 All **core logic, data handling, and validation** were implemented, tested, and verified manually by **Duddukuri Kurumurthy**.
+
+
+---
+
+## 📽️ Demo Video
+A short walkthrough of the live dashboard is available below:
+[▶ Watch the demo](demo.mp4)
