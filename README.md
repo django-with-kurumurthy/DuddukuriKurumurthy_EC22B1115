@@ -121,3 +121,8 @@ All **core logic, data handling, and validation** were implemented, tested, and 
 ## 📽️ Demo Video
 A short walkthrough of the live dashboard is available below:
 [▶ Watch the demo](demo.mp4)
+
+
+## 📽️ Demo Video
+A short walkthrough of the live dashboard is available in the repository as **demo.mp4**.  
+> 💡 Click “View Raw” to download and watch the video.
